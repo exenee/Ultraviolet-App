@@ -24,8 +24,7 @@ importers:
         specifier: ^5.0.0
         version: 5.0.0
       ultraviolet-static:
-        specifier: github:titaniumnetwork-dev/Ultraviolet-Static
-        version: https://codeload.github.com/titaniumnetwork-dev/Ultraviolet-Static/tar.gz/d9a30997be87d0f25f36c85e2fc851528d8f8e23
+        file: Ultraviolet-Static
       wisp-server-node:
         specifier: ^1.1.7
         version: 1.1.7
